@@ -1,2 +1,3 @@
 # hello-world
-first repository
+
+Literature Addict. Television Junkie.
